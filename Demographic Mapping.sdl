@@ -1,0 +1,21 @@
+#Mapping values
+#Mon Jan 13 13:38:40 EST 2020
+demographicdataname=Name
+econ=Demographic_Economically_Disadvantaged__c
+nonbinary=Demographic_Non_Binary_New__c
+female=Demographic_Female__c
+hispanic=Demographic_Hispanic__c
+white=Demographic_White__c
+sped=Demographic_Special_Education__c
+ell=Demographic_English_Language_Learners__c
+year=Year__c
+male=Demographic_Male__c
+race_2_or_more=Demographic_Other__c
+unpublishedid=School_Profile__c
+black=Demographic_Black__c
+accountid=School__c
+native=Demographic_American_Indian_Alaskan__c
+asian=Demographic_Asian__c
+islander=Demographic_Hawaiian_or_Pacific_Islander__c
+lastupdated=Last_Updated__c
+gifted=Demographic_Gifted__c

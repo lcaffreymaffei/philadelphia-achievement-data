@@ -1,0 +1,22 @@
+#Mapping values
+#Wed Feb 05 11:15:44 EST 2020
+enrollmentname=Name
+enrollment13=Enrollment_PK_3_4__c
+enrollment12=Enrollment_Grade_12__c
+enrollment11=Enrollment_Grade_11__c
+enrollment10=Enrollment_Grade_10__c
+enrollment9=Enrollment_Grade_9__c
+enrollment8=Enrollment_Grade_8__c
+enrollment7=Enrollment_Grade_7__c
+year=Year__c
+enrollment6=Enrollment_Grade_6__c
+enrollment5=Enrollment_Grade_5__c
+unpublishedid=School_Profile__c
+enrollment4=Enrollment_Grade_4__c
+enrollment3=Enrollment_Grade_3__c
+enrollment2=Enrollment_Grade_2__c
+enrollment1=Enrollment_Grade_1__c
+enrollment0=Enrollment_Kindergarten__c
+accountid=School__c
+enrollmentdatadate=Enroll_Data_Date__c
+recordtypeid=RecordTypeId

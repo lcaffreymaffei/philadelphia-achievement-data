@@ -1,0 +1,11 @@
+#Mapping values
+#Fri Jan 17 10:10:08 EST 2020
+agi_lit=Keystone_Literature_AGI__c
+agi_bio=Keystone_Biology_AGI__c
+agi_alg=Keystone_Algebra_I_AGI__c
+agi_science_8=PSSA_Science_Grade_8_AGI__c
+agi_science_4=PSSA_Science_Grade_4_AGI__c
+agi_ela_4_8=PSSA_ELA_AGI__c
+agi_math_4_8=PSSA_Math_AGI__c
+highgrowth=Has_High_Growth__c
+achievementdataid=Id
